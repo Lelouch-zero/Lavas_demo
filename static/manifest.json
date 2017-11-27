@@ -11,7 +11,7 @@
         "type": "image/png"
     }],
     // "scope": " / ",
-    "start_url": "/",
+    "start_url": "/Lavas_demo/",
     "background_color": "#000000",
     "display": "standalone",
     "theme_color": "#2874f0"
