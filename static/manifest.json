@@ -12,7 +12,7 @@
     }],
     // "scope": " / ",
     "start_url": "/Lavas_demo/",
-    "background_color": "#000000",
+    "background_color": "#ffffff",
     "display": "standalone",
     "theme_color": "#2874f0"
 }
